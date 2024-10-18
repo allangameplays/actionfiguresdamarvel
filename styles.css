@@ -146,8 +146,8 @@ footer p {
 .dark-theme {
     --main-bg-color: #000000;
     --text-color: #ffffff;
-    --accent-color: #007BFF;
-    --button-bg-color: #007BFF;
+    --accent-color:  #000000;
+    --button-bg-color:  #000000;
     --button-text-color: #ffffff;
     --backgorund-color:#ffffff;
 }
